@@ -1,2 +1,2 @@
-# Ecerc-cio-Postman
+# Ecercicio-Postman
 Fazendo teste de API com Pòstman
